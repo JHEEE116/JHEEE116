@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 백엔드 공부중인 2학년 대학생입니다.
+### 백엔드 공부중인 3학년 대학생입니다.
 <!--
 **JHEEE116/JHEEE116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
